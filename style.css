@@ -86,6 +86,9 @@ button {
     body {
         padding: 20px 24px;
     }
+    h1 {
+        margin-right: auto;
+    }
     .container {
         flex-direction: column;
         justify-content: flex-start;

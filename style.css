@@ -86,9 +86,6 @@ button {
     body {
         padding: 20px 24px;
     }
-    h1 {
-        margin-right: auto;
-    }
     .container {
         flex-direction: column;
         justify-content: flex-start;
@@ -132,5 +129,8 @@ button {
 @media screen and (min-width: 1400px) {
     .container {
         flex-direction: inherit;
+    }
+    h1 {
+        margin-right: auto;
     }
 }
